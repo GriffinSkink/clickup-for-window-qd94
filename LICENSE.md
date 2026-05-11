@@ -1,4 +1,4 @@
-# 
+# Enhance ClickUp for Windows with automatic ClickUp for Windows Module | automation + calendar-view, the #1 module. Includes automation and calendar-view for a smoother and more
 
 
 
